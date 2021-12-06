@@ -1,0 +1,12 @@
+Hi! My name is <person’s-name> , My friends usually call me <a-funny-name> . I currently live in <country> . 
+I have a pet <animal> . His name is <name> .
+I really like the color <color> . It symbolizes <superpower>
+My favorite food is <food> and I always accompany it with a refreshing <soda> .
+I usually enjoy listening to <music-genre> . I usually listen with my <plural-noun> .
+Everyday, I love to <verb> with my <plural-noun> . It’s always <adjective> !
+Being a <job> is really tough for me, I never really understand what I should do most of the time. 
+So, I asked my friend, <name> , for guidance. He is always happy to help. 
+
+
+
+
